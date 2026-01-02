@@ -1,1 +1,1 @@
-# begginings
+# beggining

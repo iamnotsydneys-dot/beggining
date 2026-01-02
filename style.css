@@ -1,0 +1,26 @@
+body{
+    background-color:#895129 ;
+}
+.dancing-script-thin {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+span{
+    color: #814141;
+}
+button{
+    background-color: #251a14 ;
+    width: 128px;
+}
+.aboutME {
+    text-align: center;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.buttons {
+    text-align: center;
+    margin-top: 20px;
+}
